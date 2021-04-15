@@ -1,6 +1,4 @@
 # Assignment for OISP Programming Fundamentals 2018
-
-- Exe file: [Link](https://github.com/dntrng/Uni-Management-System/tree/master/Uni-Management-System)
 - Code directory: [Link](https://github.com/dntrng/Uni-Management-System/tree/master/Uni-Management-System/code)
 
 ***|EDUCATION SOFTWARE FOR MANAGING COURSE AND GRADE IN UNIVERSITY|***
@@ -14,8 +12,8 @@ Before compiling and running source code of this program, please take following 
 in order to run the software properly:
 
 1. For end-users who only need a software to control their schedule:
-- In this case, our team had prepared a ".exe file" in order to make it easier for 
-users, which means that when users want to run the program, they just need to run
+- In this case, our team had prepared a [.exe file](https://github.com/dntrng/Uni-Management-System/tree/master/Uni-Management-System)
+in order to make it easier for users, which means that when users want to run the program, they just need to run
 the .exe file in the folder we provide.
 - However, for some computers, they will encounter system errors about missing DLL
 files and to avoid that, we had already contain many back up DLL files for these
@@ -30,7 +28,9 @@ download your missing files:
 the C++11" for this software to access standard libraries from C++. And the Way
 to add g++ to your compiler is that after opening the source code, please go to: 
 
-*(Settings -> Compiler-> compiler setting -> tick on "Have g++ follow the C++11 ISO C++ langauage standard [-std=C++11]")*
+*Settings -> Compiler-> compiler setting -> tick on "Have g++ follow the C++11 ISO C++ language standard [-std=C++11]"*
+![settings](https://github.com/dntrng/Uni-Management-System/blob/master/Uni-Management-System/readme/Way_to_open_compiler_setting.PNG)
+![settings](https://github.com/dntrng/Uni-Management-System/blob/master/Uni-Management-System/readme/Tick_on_g%2B%2B.PNG)
 
 Notice: if you cannot find the path to config the compiler, you can check the instruction folder 
 we sent with program itself and follow the pictures in there steps by steps to set up the compiler
