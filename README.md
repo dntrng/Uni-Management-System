@@ -13,7 +13,7 @@ and grades more precisely and in a convenient way.
 Before compiling and running source code of this program, please take following steps carefully
 in order to run the software properly:
 
-1/ For end-users who only need a software to control their schedule:
+1. For end-users who only need a software to control their schedule:
 - In this case, our team had prepared a ".exe file" in order to make it easier for 
 users, which means that when users want to run the program, they just need to run
 the .exe file in the folder we provide.
@@ -24,7 +24,7 @@ download your missing files:
 
 *(http://www.dll-files.com)*
 
-2/ For coder who are using Code Blocks and MinGW :
+2. For coder who are using Code Blocks and MinGW :
 - First, put all the software's files, folder data into one folder and open the main.cpp with Code Blocks.
 - Second, because Code Blocks uses GNU GCC compiler, we have to add compiler flags "g++ follow 
 the C++11" for this software to access standard libraries from C++. And the Way
@@ -39,7 +39,7 @@ crrectly.
 - After compiling, the .exe file will be created in the same folder that contains main.cpp and other .h files. They can either
 use .exe file to run the software or just run it directly in Code Blocks (recommend run .exe file).
 
-3/ For coder who are using Visual Studio:
+3. For coder who are using Visual Studio:
 - First, you have to build a C++ project with your visual studio.
 - Second, extract the software's .cpp file into source files folder and .h files into header folder.
 - Third, press F5 to compile the program.
