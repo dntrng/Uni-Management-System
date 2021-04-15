@@ -1,5 +1,4 @@
 # Assignment for OISP Programming Fundamentals 2018
-- Code directory: [Link](https://github.com/dntrng/Uni-Management-System/tree/master/Uni-Management-System/code)
 
 ***|EDUCATION SOFTWARE FOR MANAGING COURSE AND GRADE IN UNIVERSITY|***
 
